@@ -50,7 +50,7 @@ $language-colors: (
       "Markdown",
     ),
   "rust": (
-    #ff4647,
+    #B7410E,
     "Rust",
   ),
   // Adjusted to match Rust's branding
@@ -232,6 +232,6 @@ pre {
   z-index: 10;
   background-color: transparent;
   border: none;
-  fill: #ef5350;
+  fill: #66b395;
   /* Sets the color of the SVG, assuming it's an SVG icon */
 }
